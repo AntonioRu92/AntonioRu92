@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonioRu92
 - 👀 PHP | LARAVEL | HTML | CSS | BOOTSTRAP | JAVASCRIPT | VUE.JS | PHYTON | NODEJS | REACT | TAILWIND | TYPESCRIPT |
-- 🌱 I’m currently learning VUEJS
+- 🌱 I’m currently learning FLUTTER
 - 📫 antonio.russo26@icloud.com
 
 <!---
