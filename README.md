@@ -3,9 +3,8 @@
 I am Antonio, a software developer from Italy with a strong interest in web and mobile applications.
 
 ## My Development Stack 👨🏻‍💻
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- Frontend: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- Backend: Node.js ![#339933](https://via.placeholder.com/15/339933/000000?text=+) `#339933`, Express ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`, MongoDB ![#47A248](https://via.placeholder.com/15/47A248/000000?text=+) `#47A248`
 
 ## Other Tools 🛠️
 
