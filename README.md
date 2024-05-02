@@ -24,5 +24,7 @@ I am Antonio, a software developer from Italy with a strong interest in web and 
 
 Connect with me on:
 
-![https://www.linkedin.com/in/antonio-russo-full-stack-web-developer-junior/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-russo-full-stack-web-developer-junior/)
+
+
 
