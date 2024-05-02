@@ -15,12 +15,14 @@ I am Antonio, a software developer from Italy with a strong interest in web and 
 
 ## Other Tools 🛠️
 
-- Version Control: Git ![#F05032](https://via.placeholder.com/15/F05032/000000?text=+) `#F05032`, GitHub ![#181717](https://via.placeholder.com/15/181717/000000?text=+) `#181717`
-- IDE: Visual Studio Code ![#007ACC](https://via.placeholder.com/15/007ACC/000000?text=+) `#007ACC`
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+
+
 
 ## How to Reach Me 📫
 
 Connect with me on:
-- [GitHub](https://github.com/your_username)
-- [LinkedIn](https://www.linkedin.com/in/your_username)
-- [Twitter](https://twitter.com/your_username)
+
+[LinkedIn](https://www.linkedin.com/in/antonio-russo-full-stack-web-developer-junior/) ![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
